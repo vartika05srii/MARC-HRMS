@@ -15,5 +15,8 @@ Login Details for Doctor: alok@gmail.com/alok
 ![image](https://user-images.githubusercontent.com/123318965/228038753-d0c080cc-b33e-4a50-835d-2da3960b843a.png)
 ![image](https://user-images.githubusercontent.com/123318965/228038860-f4375901-d634-4c69-a06b-5c3790571b92.png)
 ![image](https://user-images.githubusercontent.com/123318965/228038897-719220d9-1649-4083-b149-a66c6a8b0ce6.png)
+![image](https://user-images.githubusercontent.com/123318965/228039174-1a3c6d80-cf7e-4913-9ad3-20ad56b8b418.png)
+![image](https://user-images.githubusercontent.com/123318965/228039288-5da97d22-8efc-4b65-b2b8-deaa1cc38f73.png)
+![image](https://user-images.githubusercontent.com/123318965/228039320-310882e5-0560-42f3-8273-d60482a0af98.png)
 
 
